@@ -4,8 +4,8 @@ from woocommerce import API
 
 wcapi = API(
     url="https://drinkbomani.com/",
-    consumer_key="ck_8d47d8d1d6af1988093a6ec2db9597471120b08d",
-    consumer_secret="cs_c2064409bd4f8309e2defad029ea67ace9065659",
+    #consumer_key="ck_8d47d8d1d6af1988093a6ec2db9597471120b08d",
+    #consumer_secret="cs_c2064409bd4f8309e2defad029ea67ace9065659",
     version="wc/v3"
 )
 
